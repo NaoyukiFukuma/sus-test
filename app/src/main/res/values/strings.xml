@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SampleTV</string>
+    <string name="title_activity_main">SampleTV</string>
+
+    <!-- Error messages -->
+    <string name="error_tune_message">Can not tuned because terrestrial channel is not scanned.</string>
+</resources>
